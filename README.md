@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on: Sports A&T - Front-end
-- 🌱 I’m currently learning: React, Python and Typescript
+- 🌱 I’m currently learning: React, Typescript and Python
 - 💬 About me: Programador iniciante em Front-end
 - 📫 How to reach me: macksondar.mesquita17@gmail.com ou macksoncontaaleatoria@gmail.com
 - ⚡ Fun fact: Iniciante em programação
