@@ -16,7 +16,7 @@
   ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <details>
-<summary>Quer saber mais sobre mim?</summary>
+<summary>Quer saber mais sobre mim? :face_with_peeking_eye: </summary>
 <br>
 Quem sou eu!
 <br><br>
