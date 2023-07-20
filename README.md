@@ -16,7 +16,7 @@
   ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <details>
-<summary>How do I dropdown?</summary>
+<summary>Quer saber mais sobre mim?</summary>
 <br>
 This is how you dropdown.
 <br><br>
