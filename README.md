@@ -21,6 +21,13 @@
 Quem sou eu!
 <br><br>
 <pre>
-qfvagvrhgeurg
+Me chamo Mackson da Rocha Mesquita, tenho 18 anos e moro em Itatiba, uma cidade no interior de São Paulo. 
+Estudo Análise e Desenvolvimento de Sistemas na Universidade São Francisco. A pouco tempo, iniciei minha 
+carreira como programador e embora ainda tente me achar, nas inúmeras derivações e nichos do mercado de TI, 
+me aproximei do mercado de front-end. Tenho uma breve experiência como QA e continuo a desenvolver minhas habilidades 
+como programador, extraindo o melhor dos dois mundos. Atualmente, estudo React e Next, com a linguagem TypeScript 
+e um pouco de Phyton. Sempre gostei de computadores, jogos e tecnologia, e embora na época apenas como consumidor 
+me identifiquei com o mundo da programação com 15 anos, e desde então, dedico algumas horas do meu dia, a me aprofundar 
+no mundo virtual das máquinas!
 </pre>
 </details>
