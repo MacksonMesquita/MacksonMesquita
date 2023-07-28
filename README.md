@@ -36,11 +36,11 @@ como programador, extraindo o melhor dos dois mundos. Atualmente, estudo React e
 com a linguagem TypeScript e um pouco de Phyton. 
   <br>
   <br>
-Sempre gostei de computadores, jogos e tecnologia, e embora na época apenas como consumidor 
+Sempre gostei de computadores, jogos e tecnologia, e embora na época apenas como consumidor, 
   <br>
-me identifiquei com o mundo da programação com 15 anos, e desde então
+me identifiquei com o mundo da programação, e desde então
   <br>
 dedico algumas horas do meu dia, a me aprofundar 
   <br>
-no mundo virtual das máquinas!
+em desenvolvimento de software de um modo global.
 </details>
