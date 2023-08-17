@@ -48,8 +48,6 @@ dedico algumas horas do meu dia, a me aprofundar
 em desenvolvimento de software de um modo global.
 </details>
 
-<br>
-
 <details>
 <summary> More about me? 💬 </summary>
 <br>
