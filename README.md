@@ -3,7 +3,7 @@
 ![](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
 
 
-- 🔭 I’m currently working on: Sports A&T - Front-end, Back-end
+- 🔭 I’m currently working on: Sports A&T - Front-end and Back-end
 - 🌱 I’m currently learning: React, Typescript and Python
 - 💬 About me: Iniciante em programação 
 - 📫 How to reach me: macksondar.mesquita17@gmail.com
