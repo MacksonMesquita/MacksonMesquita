@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on: Sports A&T - Front-end, Back-end
 - 🌱 I’m currently learning: React, Typescript and Python
 - 💬 About me: Iniciante em programação 
-- 📫 How to reach me: macksondar.mesquita17@gmail.com ou macksoncontaaleatoria@gmail.com
+- 📫 How to reach me: macksondar.mesquita17@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacksonMesquita&show_icons=true&theme=radical)
 
