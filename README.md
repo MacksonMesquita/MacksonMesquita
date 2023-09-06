@@ -18,6 +18,35 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="63">
 
 
+### More about me? 💬 </summary>
+Who i am!
+<br>
+My name is Mackson Mesquita, i'm 18 and live in Itatiba, a city in the interior of São Paulo.
+  <br>
+I study systems analysis and development in a university of São Francisco. 
+  <br>
+  <br>
+Not long ago, I started my career as a programmer and although I still try to find myself,,
+  <br>
+in the numerous derivations and niches of the IT market, I approached the front-end market. 
+  <br>
+I have a brief experience as a QA and continue to develop my skills
+  <br>
+as a programmer, getting the best of both worlds. I currently study React and Next, 
+  <br>
+with TypeScript and some Python in the back-and side. 
+  <br>
+  <br>
+I always liked computers, games and technology, and although only as a consumer, 
+  <br>
+i identified myself with the world of programming, and since then
+  <br>
+i dedicate a few hours of my day to deepen myself
+  <br>
+in software development on a globally mode.
+
+<br />
+
 <details>
 <summary> Quer saber mais sobre mim? 💬 </summary>
 <br>
@@ -46,36 +75,6 @@ me identifiquei com o mundo da programação, e desde então
 dedico algumas horas do meu dia, a me aprofundar 
   <br>
 em desenvolvimento de software de um modo global.
-</details>
-
-<details>
-<summary> More about me? 💬 </summary>
-<br>
-Who i am!
-<br><br>
-My name is Mackson Mesquita, i'm 18 and live in Itatiba, a city in the interior of São Paulo.
-  <br>
-I study systems analysis and development in a university of São Francisco. 
-  <br>
-  <br>
-Not long ago, I started my career as a programmer and although I still try to find myself,,
-  <br>
-in the numerous derivations and niches of the IT market, I approached the front-end market. 
-  <br>
-I have a brief experience as a QA and continue to develop my skills
-  <br>
-as a programmer, getting the best of both worlds. I currently study React and Next, 
-  <br>
-with TypeScript and some Python in the back-and side. 
-  <br>
-  <br>
-I always liked computers, games and technology, and although only as a consumer, 
-  <br>
-i identified myself with the world of programming, and since then
-  <br>
-i dedicate a few hours of my day to deepen myself
-  <br>
-in software development on a globally mode.
 </details>
 
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
