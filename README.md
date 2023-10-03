@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: React, Typescript and Python
 - 💬 About me: Iniciante em programação 
 - 📫 How to reach me: macksondar.mesquita17@gmail.com
-- 🗺️ From: Brazil (**BR**) 
+- 🗺️ From: São Paulo, Brazil (**BR**) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacksonMesquita&show_icons=true&theme=radical)
 
