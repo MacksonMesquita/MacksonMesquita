@@ -24,7 +24,7 @@ Who i am!
 <br>
 My name is Mackson Mesquita, i'm 18 and live in Itatiba, a city in the interior of São Paulo.
   <br>
-I study systems analysis and development in a university of São Francisco. 
+I study systems analysis and development. 
   <br>
   <br>
 Not long ago, I started my career as a programmer and although I still try to find myself,,
@@ -55,7 +55,7 @@ Quem sou eu!
 <br><br>
 Me chamo Mackson da Rocha Mesquita, tenho 18 anos e moro em Itatiba, São Paulo.
   <br>
-Estudo Análise e Desenvolvimento de Sistemas na Universidade São Francisco. 
+Estudo Análise e Desenvolvimento de Sistemas. 
   <br>
   <br>
 A pouco tempo, iniciei minha carreira como programador e embora ainda tente me achar,
