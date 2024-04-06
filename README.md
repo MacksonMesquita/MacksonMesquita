@@ -9,7 +9,7 @@
 - 📫 How to reach me: macksondar.mesquita17@gmail.com
 - 🗺️ From: São Paulo, Brazil (**BR**) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacksonMesquita&show_icons=true&theme=radical) <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MacksonMesquita&show_icons=true&theme=radical) <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="195">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="63"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="63">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60">
@@ -78,5 +78,5 @@ dedico algumas horas do meu dia, a me aprofundar
 em desenvolvimento de software de um modo global.
 </details>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
