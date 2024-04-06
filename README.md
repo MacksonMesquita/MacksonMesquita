@@ -3,9 +3,9 @@
 ![](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7)
 
 
-- 🔭 I’m currently working on: Sports A&T
+- 🔭 I’m currently working on: Jofege Construção e Pavimentação
 - 🌱 I’m currently learning: React, Typescript and Python
-- 💬 About me: Front dev and Quality assurance (QA)
+- 💬 About me: Front dev and begginer
 - 📫 How to reach me: macksondar.mesquita17@gmail.com
 - 🗺️ From: São Paulo, Brazil (**BR**) 
 
